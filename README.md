@@ -1,50 +1,40 @@
-# Personal-Project-1
-Goals
-Complete the Python for Everybody Specialization
+Goals:
+Create a simple rpg game
 
-Boundaries / Scope
+Success Criteria: 
+Manage to make a simple rpg game
 
-Complete Course 1 Programming for Everybody (Getting Started with Python) 
+Assumptions:
+Will have minor/major glitches
+I will be able to obtain all the software needed for this project
+I can manage to make an actual rpg game
 
-Complete Course 2 Python Data Structures
+Stakeholders:
+Professor- for grade
+Parents - Investing in my education
+Perspective Employers - Will be added to my student portfolido which could help with getting a job
 
-Success criteria
-My own application for data retrieval and processing.
+Timeline:
+Week 1 - [Gamemaker Studio 2]  Watch: Turned Based RPG Turotial Part 1: Movement and Collisions/ following along on side (2 hours)
 
-Weekly work log with screenshots and summaries to demonstrate activity.
+Week 2 - [Gamemaker Studio 2]  Watch: Turned Based RPG Turotial Part 2: 8 Directional Sprites/ following along on side (3 hours)  
 
-Constraints
-I will be auditing the course for free so will be able to read and view the course content but not submit projects or earn the certification.
-Assumptions
-The courses will be available for the duration of the semester.
-I have all required software.
-I can skip the Installing and Using Python units.
-Stakeholders
-Professor - for grade
-Parents - investing in my education and future success, want to make them proud
-Perspective Employers - artifact will be added to my student portfolio which could help with getting a job
-Timeline
-Week: 
+Week 3 - [Gamemaker Studio 2]  Watch: Turned Based RPG Turotial Part 3: Tiles aand Foliage/ following along on side (3 hours)
 
-Chapter One - Why we Program? (3 hours)
+Week 4 - [Gamemaker Studio 2]  Watch: Turned Based RPG Turotial Part 4: Room Transitions and Fadeout/ following along on the side (3 hours)
 
-Chapter Two: Variables and Expressions (3 hours)
+Week 5 - [Gamemaker Studio 2]  Watch: Turned Based RPG Turotial Part 5: States and the Encounter/ following along on side (3 hours)
 
-Chapter Three: Conditional Code (3 hours)
+Week 6 - [Gamemaker Studio 2]  Watch: Turned Based RPG Turotial Part 6: GUI and Pause Menu/ following along on side (3 hours)
 
-Chapter Five: Loops and Iteration (3 hours)
+Week 7 - [Gamemaker Studio 2]  Watch: Turned Based RPG Turotial Part 7: Textboxes and Signs/ following along on side(3 hours)
 
-Chapter Four: Functions (2 hours)
+Week 8 - [Gamemaker Studio 2] Watch: Advance RPG Inventory System/ following along on side (5 hours)
 
-Chapter Seven: Files (3 hours)
+Week 9 - Come up with my own ideas/concepts (2 hours)
 
-Chapter Eight: Lists (3 hours)
+Week 10 - Start making game (3 hours)
 
-Chapter Six: Strings (3 hours)
+Week 11 - Continute working on game/asking professor any questions I have, so I can fix issues with the game (4 Hours)
 
-Chapter Nine: Dictionaries (3 hours)
-
-Chapter Ten: Tuples (2 hours)
-
-Graduation and work on independent program (2 hours)
-Complete independent program (2 hours)
+Week 12 - Finish game (5 Hours)
