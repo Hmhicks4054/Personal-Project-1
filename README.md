@@ -1,6 +1,9 @@
 Goals:
 Create a simple rpg game
 
+Boundaries/Scope
+My own application for data retrieval and processing
+
 Success Criteria:
 Manage to make a simple rpg game
 
