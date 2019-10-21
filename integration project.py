@@ -16,7 +16,7 @@ while continueProgram:
 
 elif userChoice == 2:
     int(input("Enter the length of the side of a square to get the area:"))
-        print("calculateArea(side)
+        print(calculateArea(side))
         elif userChoice == 5:
             continueProgram =  False
     else: print("Invalid selection. Try again")
