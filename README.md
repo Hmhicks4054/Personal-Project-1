@@ -1,5 +1,5 @@
 Goals:
-Create a simple rpg game
+Create a simple RPG
 
 Boundaries/Scope
 My own application for data retrieval and processing
